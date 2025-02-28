@@ -7,3 +7,5 @@ Provider used:
 
 
 https://github.com/CiscoDevNet/terraform-provider-hyperfabric
+
+Follow the installation guide on the provider repository
